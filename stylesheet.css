@@ -1,11 +1,10 @@
 
-
 #introParagraph{
-    color: rgba(16, 230, 245, 0.952);
+    color: rgba(113, 51, 228, 0.952);
     text-align: center;
 }
 #hobbyParagraph{
-    color: rgba(34, 247, 140, 0.952);
+    color: rgba(16, 138, 22, 0.952);
     text-align: center;
 }
 
@@ -20,10 +19,10 @@ a:hover{
     color: red !important;
 }
 a{
-    text-align: center;
+   justify-content: center;
 }
 .imageDivider{
-    display: flex;
+    display:inline;
     justify-content: center;
 }
 
