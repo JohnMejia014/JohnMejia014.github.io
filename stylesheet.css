@@ -11,10 +11,10 @@ p{
 
 .Header{
     font-size: 56px;
-    text-shadow: 2px 1px;
+    text-shadow: 2px 0px;
 
 }
 
 a:hover{
-    color: red;
+    color: red !important;
 }
