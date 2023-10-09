@@ -7,3 +7,9 @@
 p{
     color: rgba(24, 110, 240, 0.952);
 }
+
+.header{
+    font-size: 36;
+    text-shadow: 2px;
+    text-align: center;
+}
