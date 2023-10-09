@@ -1,15 +1,16 @@
 
-#bio {
-    font-size: 34px;
-    color: aqua;
-}
 
-p{
-    color: rgba(24, 110, 240, 0.952);
+#introParagraph{
+    color: rgba(16, 230, 245, 0.952);
+    text-align: center;
+}
+#hobbyParagraph{
+    color: rgba(34, 247, 140, 0.952);
     text-align: center;
 }
 
 .Header{
+    text-align: center;
     font-size: 56px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Horizontal and vertical offsets, blur radius, and shadow color */
     text-decoration: wavy;
