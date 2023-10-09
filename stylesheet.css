@@ -1,2 +1,7 @@
 /*the external stylesheet containing your page’s styles*/
-/*added commit
+/*added commit*/
+
+#bio {
+    font-size: 34px;
+    color: aqua;
+}
