@@ -18,12 +18,11 @@
 a:hover{
     color: red !important;
 }
-a{
-   justify-content: center;
+.linkContainer{
+    text-align: center;
 }
 .imageDivider{
-    display:inline;
-    justify-content: center;
+    text-align: center;
 }
 
 .imageDivider img{
