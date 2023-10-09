@@ -11,10 +11,22 @@ p{
 
 .Header{
     font-size: 56px;
-    text-shadow: 2px 0px;
-
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Horizontal and vertical offsets, blur radius, and shadow color */
+    text-decoration: wavy;
 }
 
 a:hover{
     color: red !important;
+}
+a{
+    text-align: center;
+}
+.imageDivider{
+    display: flex;
+    justify-content: center;
+}
+
+.imageDivider img{
+    max-width: 100%;
+    max-height: 100%;
 }
